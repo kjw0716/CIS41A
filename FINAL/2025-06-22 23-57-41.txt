@@ -1,0 +1,10 @@
+----------- De Anza Food Court Bill -----------
+Item                      Qty        Price      Total     
+------------------------------------------------------------
+Mushroom Swiss            1          $5.95      $5.95     
+------------------------------------------------------------
+Price before tax: $5.95
+Tax: $0.00
+Price after tax: $5.95
+Customer type: Student
+Order saved on: 2025-06-22 23:57:41
