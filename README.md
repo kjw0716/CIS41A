@@ -2,6 +2,9 @@
 
 Python coursework from De Anza College, including short programming exercises and a command-line **De Anza Food Court ordering system**. The files show a progression from input validation and functions to modules, classes, inheritance, file output, and unit testing.
 
+[![Python](https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white)](#repository-guide)
+[![Featured](https://img.shields.io/badge/featured-food%20court%20ordering%20system-ff7f50?style=flat-square)](#featured-project-de-anza-food-court)
+
 ## Course context
 
 De Anza's CIS 41A introduces Python data types and collections, control flow, functions, modules, object-oriented programming, file handling, regular expressions, and exceptions. This repository contains selected coursework, rather than an implementation of every topic in the course.
